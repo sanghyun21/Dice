@@ -1,4 +1,4 @@
-# wolhyun
+# dice
 (Number Guess)
 
 """
